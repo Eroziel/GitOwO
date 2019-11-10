@@ -13,6 +13,8 @@ void somethingRandom(){
     cout << "ZMIANA!" << endl;
 }
 
+// komentarz
+
 int main() {
     somethingRandom();
     return 0;
