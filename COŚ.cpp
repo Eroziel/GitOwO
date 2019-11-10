@@ -10,6 +10,7 @@ void somethingRandom(){
     int name;
     cin >> name;
     cout << "Moje imie to " << name << endl;
+    cout << "ZMIANA!" << endl;
 }
 
 int main() {
