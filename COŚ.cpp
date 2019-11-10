@@ -6,11 +6,13 @@
 
 using namespace std;
 
+int global_variable = 0;
+
 void somethingRandom(){
     int name;
     cin >> name;
     cout << "Moje imie to " << name << endl;
-    cout << "ZMIANA!" << endl;
+    cout << "ZMIANA UwU!" << endl;
 }
 
 // komentarz
